@@ -104,5 +104,5 @@ These projects demonstrate my analytical mindset, technical ability, and growing
 ## 🚀 How to Use This Repository
 1. Clone the repository:
    ```bash
-   https://github.com/LesegoKatlego/Projects-
+   git clone https://github.com/LesegoKatlego/cybersecurity-analyst-projects.git
 
